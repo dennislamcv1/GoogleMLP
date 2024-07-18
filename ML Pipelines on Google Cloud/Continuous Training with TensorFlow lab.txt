@@ -1,0 +1,2 @@
+ZONE=us-central1-a
+INSTANCE_NAME=qwiklabs-gcp-01-5fefaf5b81b8
